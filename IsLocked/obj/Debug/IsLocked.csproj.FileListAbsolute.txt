@@ -1,0 +1,6 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\IsLocked\IsLocked\bin\Debug\IsLocked.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\IsLocked\IsLocked\bin\Debug\IsLocked.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\IsLocked\IsLocked\bin\Debug\IsLocked.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\IsLocked\IsLocked\obj\Debug\IsLocked.csprojResolveAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\IsLocked\IsLocked\obj\Debug\IsLocked.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\IsLocked\IsLocked\obj\Debug\IsLocked.pdb
